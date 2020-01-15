@@ -1,71 +1,158 @@
-{"targetUrl":[
-    {
-        "id": "5e1d7954da7ccb390cfe1747",
-        "target": ""
-    },
-    {
-        "id": "5e1d7a3bda7ccb390cfe174a",
-        "target": ""
-    },
-    {
-        "id": "5e1d7ac4da7ccb390cfe174f",
-        "target": ""
-    },
-    {
-        "id": "5e1d7b14da7ccb390cfe1756",
-        "target": ""
-    },
-    {
-        "id": "5e1d7b75da7ccb390cfe175f",
-        "target": ""
-    }
-], "rooms": [
-    {
-        "id": "",
-        "number": "",
-        "area": "",
-        "area1": "",
-        "floor": ""
-    }
-], "blocks": [
-    {
-        "id": "5e1d7954da7ccb390cfe1747",
-        "images": [
-            {"id": "", "vertical": "./images/block/BA.png", "path": "./images/block/A3N.png", "range": "3"},
-            {"id": "", "vertical": "./images/block/A14.png", "path": "./images/block/A14N.png", "range": "4-19"}
-        ]
-    },
-    {
-        "id": "5e1d7954da7ccb390cfe1747",
-        "images": [
-            {"id": "", "vertical": "./images/block/BB.png", "path": "./images/block/B3N.png", "range": "3"},
-            {"id": "", "vertical": "./images/block/B4-19.png", "path": "./images/block/B4-19N.png", "range": "4-19"}
-        ]
-    },
-    {
-        "id": "5e1d7954da7ccb390cfe1747",
-        "images": [
-            {"id": "", "vertical": "./images/block/BC.png", "path": "./images/block/C4N.png", "range": "4"},
-            {"id": "", "vertical": "./images/block/C5-15.png", "path": "./images/block/C5-15N.png", "range": "5-15"},
-            {"id": "", "vertical": "./images/block/C16.png", "path": "./images/block/C16N.png", "range": "16"},
-            {"id": "", "vertical": "./images/block/C17-18.png", "path": "./images/block/C17-18N.png", "range": "17-18"}
-        ]
-    },
-    {
-        "id": "5e1d7954da7ccb390cfe1747",
-        "images": [
-            {"id": "", "vertical": "./images/block/BD.png", "path": "./images/block/D4N.png", "range": "4"},
-            {"id": "", "vertical": "./images/block/D5-15.png", "path": "./images/block/D5-15N.png", "range": "5-15"},
-            {"id": "", "vertical": "./images/block/D16.png", "path": "./images/block/D16N.png", "range": "16"},
-            {"id": "", "vertical": "./images/block/D17-18.png", "path": "./images/block/D17-18N.png", "range": "17-18"}
-        ]
-    },
-    {
-        "id": "5e1d7954da7ccb390cfe1747",
-        "images": [
-            {"id": "", "vertical": "./images/block/BE.png", "path": "./images/block/E4N.png", "range": "4"},
-            {"id": "", "vertical": "./images/block/E5-18.png", "path": "./images/block/E5-18N.png", "range": "5-18"}
-        ]
-    }
-]
+{
+    "targetUrl": [
+        {
+            "id": "5e1d7954da7ccb390cfe1747",
+            "target": ""
+        },
+        {
+            "id": "5e1d7a3bda7ccb390cfe174a",
+            "target": ""
+        },
+        {
+            "id": "5e1d7ac4da7ccb390cfe174f",
+            "target": ""
+        },
+        {
+            "id": "5e1d7b14da7ccb390cfe1756",
+            "target": ""
+        },
+        {
+            "id": "5e1d7b75da7ccb390cfe175f",
+            "target": ""
+        }
+    ],
+    "rooms": [
+        {
+            "id": "",
+            "number": "",
+            "area": "",
+            "area1": "",
+            "floor": ""
+        }
+    ],
+    "blocks": [
+        {
+            "id": "5e1d7954da7ccb390cfe1747",
+            "images": [
+                {
+                    "id": "",
+                    "vertical": "./images/block/BA.png",
+                    "path": "./images/block/A3N.png",
+                    "range": "3",
+                    "block": "A"
+                },
+                {
+                    "id": "",
+                    "vertical": "./images/block/A14.png",
+                    "path": "./images/block/A14N.png",
+                    "range": "4-19",
+                    "block": "A"
+                }
+            ]
+        },
+        {
+            "id": "5e1d7a3bda7ccb390cfe174a",
+            "images": [
+                {
+                    "id": "",
+                    "vertical": "./images/block/BB.png",
+                    "path": "./images/block/B3N.png",
+                    "range": "3",
+                    "block": "B"
+                },
+                {
+                    "id": "",
+                    "vertical": "./images/block/B4-19.png",
+                    "path": "./images/block/B4-19N.png",
+                    "range": "4-19",
+                    "block": "B"
+                }
+            ]
+        },
+        {
+            "id": "5e1d7ac4da7ccb390cfe174f",
+            "images": [
+                {
+                    "id": "",
+                    "vertical": "./images/block/BC.png",
+                    "path": "./images/block/C4N.png",
+                    "range": "4",
+                    "block": "C"
+                },
+                {
+                    "id": "",
+                    "vertical": "./images/block/C5-15.png",
+                    "path": "./images/block/C5-15N.png",
+                    "range": "5-15",
+                    "block": "C"
+                },
+                {
+                    "id": "",
+                    "vertical": "./images/block/C16.png",
+                    "path": "./images/block/C16N.png",
+                    "range": "16",
+                    "block": "C"
+                },
+                {
+                    "id": "",
+                    "vertical": "./images/block/C17-18.png",
+                    "path": "./images/block/C17-18N.png",
+                    "range": "17-18",
+                    "block": "C"
+                }
+            ]
+        },
+        {
+            "id": "5e1d7b14da7ccb390cfe1756",
+            "images": [
+                {
+                    "id": "",
+                    "vertical": "./images/block/BD.png",
+                    "path": "./images/block/D4N.png",
+                    "range": "4",
+                    "block": "D"
+                },
+                {
+                    "id": "",
+                    "vertical": "./images/block/D5-15.png",
+                    "path": "./images/block/D5-15N.png",
+                    "range": "5-15",
+                    "block": "D"
+                },
+                {
+                    "id": "",
+                    "vertical": "./images/block/D16.png",
+                    "path": "./images/block/D16N.png",
+                    "range": "16",
+                    "block": "D"
+                },
+                {
+                    "id": "",
+                    "vertical": "./images/block/D17-18.png",
+                    "path": "./images/block/D17-18N.png",
+                    "range": "17-18",
+                    "block": "D"
+                }
+            ]
+        },
+        {
+            "id": "5e1d7b75da7ccb390cfe175f",
+            "images": [
+                {
+                    "id": "",
+                    "vertical": "./images/block/BE.png",
+                    "path": "./images/block/E4N.png",
+                    "range": "4",
+                    "block": "E"
+                },
+                {
+                    "id": "",
+                    "vertical": "./images/block/E5-18.png",
+                    "path": "./images/block/E5-18N.png",
+                    "range": "5-18",
+                    "block": "E"
+                }
+            ]
+        }
+    ]
 }
