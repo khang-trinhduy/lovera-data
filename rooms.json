@@ -46,7 +46,7 @@
     {
         "type": "b",
         "sub": "B1",
-        "view": "./images/room/type-b1.jpg",
+        "view": "./images/room/type-b.jpg",
         "loc": "./images/room/type-b-p1.png",
         "name": "2 PHÒNG NGỦ",
         "svg": "./b1.svg",
