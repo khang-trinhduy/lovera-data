@@ -15,10 +15,11 @@
                 "77.58"
             ]
         ],
-        "view": "./images/room/type-c1.jpg",
-        "loc": "./images/room/type-c-p1.png",
+        "view": "images/room/type-c1.jpg",
+        "loc": "images/room/type-c-p1.png",
         "sub": "C1",
-        "name": "3 PHÒNG NGỦ"
+        "name": "3 PHÒNG NGỦ",
+        "svg": "./c1.svg"
     },
     {
         "type": "c",
@@ -36,10 +37,11 @@
                 "77.58"
             ]
         ],
-        "view": "./images/room/type-c2.jpg",
-        "loc": "./images/room/type-c-p2.png",
+        "view": "images/room/type-c2.jpg",
+        "loc": "images/room/type-c-p2.png",
         "sub": "C2",
-        "name": "3 PHÒNG NGỦ"
+        "name": "3 PHÒNG NGỦ",
+        "svg": "./c2.svg"
     },
     {
         "type": "b",
@@ -47,6 +49,7 @@
         "view": "./images/room/type-b1.jpg",
         "loc": "./images/room/type-b-p1.png",
         "name": "2 PHÒNG NGỦ",
+        "svg": "./b1.svg",
         "rooms": [
             [
                 "C.**.06",
@@ -170,6 +173,7 @@
         "view": "./images/room/type-b2.jpg",
         "loc": "./images/room/type-b-p2.png",
         "name": "2 PHÒNG NGỦ",
+        "svg": "./b1.svg",
         "rooms": [
             [
                 "C.**.02",
@@ -197,6 +201,7 @@
         "view": "./images/room/type-b3.jpg",
         "loc": "./images/room/type-b-p3.png",
         "name": "2 PHÒNG NGỦ",
+        "svg": "./b1.svg",
         "rooms": [
             [
                 "D.**.11",
@@ -218,6 +223,7 @@
         "view": "./images/room/type-b4.jpg",
         "loc": "./images/room/type-b-p4.png",
         "name": "2 PHÒNG NGỦ",
+        "svg": "./b1.svg",
         "rooms": [
             [
                 "D.**.03",
@@ -239,6 +245,7 @@
         "view": "./images/room/type-b7.jpg",
         "loc": "./images/room/type-b-p7.png",
         "name": "2 PHÒNG NGỦ",
+        "svg": "./b1.svg",
         "rooms": [
             [
                 "C.**.21",
@@ -254,6 +261,7 @@
         "view": "./images/room/type-b8.jpg",
         "loc": "./images/room/type-b-p8.png",
         "name": "2 PHÒNG NGỦ",
+        "svg": "./b1.svg",
         "rooms": [
             [
                 "D.**.07",
@@ -269,6 +277,7 @@
         "view": "./images/room/type-b12.jpg",
         "loc": "./images/room/type-b-p12.png",
         "name": "2 PHÒNG NGỦ",
+        "svg": "./b1.svg",
         "rooms": [
             [
                 "C.**.17",
@@ -290,6 +299,7 @@
         "view": "./images/room/type-b13.jpg",
         "loc": "./images/room/type-b-p13.png",
         "name": "2 PHÒNG NGỦ",
+        "svg": "./b1.svg",
         "rooms": [
             [
                 "D.**.09",
