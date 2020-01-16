@@ -18,7 +18,8 @@
         "view": "./images/room/type-c1.jpg",
         "loc": "./images/room/type-c-p1.png",
         "sub": "C1",
-        "name": "3 PHÒNG NGỦ"
+        "name": "3 PHÒNG NGỦ",
+        "svg": "./c1.svg"
     },
     {
         "type": "c",
@@ -39,6 +40,7 @@
         "view": "./images/room/type-c2.jpg",
         "loc": "./images/room/type-c-p2.png",
         "sub": "C2",
-        "name": "3 PHÒNG NGỦ"
+        "name": "3 PHÒNG NGỦ",
+        "svg": "./c2.svg"
     }
 ]
